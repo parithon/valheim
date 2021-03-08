@@ -23,9 +23,9 @@ clear
 #Valheim Server Install location(Default) 
 valheimInstallPath=/mnt/data/valheim
 #Valheim World Data Path(Default)
-worldpath=/mnt/synology/valheim/worlds
+worldpath=/mnt/data/valheim/saved
 #Backup Directory ( Default )
-backupPath=/mnt/synology/valheim/backups
+backupPath=/mnt/synology/valheim
 ###############################################################
 
 # Set Menu Version for menu display
