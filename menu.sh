@@ -21,15 +21,15 @@ clear
 ###############################################################
 #Only change this if you know what you are doing
 #Valheim Server Install location(Default) 
-valheimInstallPath=/home/steam/valheimserver
+valheimInstallPath=/mnt/data/valheim
 #Valheim World Data Path(Default)
-worldpath=/home/steam/.config/unity3d/IronGate/Valheim/worlds
+worldpath=/mnt/synology/valheim/worlds
 #Backup Directory ( Default )
-backupPath=/home/steam/backups
+backupPath=/mnt/synology/valheim/backups
 ###############################################################
 
 # Set Menu Version for menu display
-mversion="1.9.1-Fenrir"
+mversion="1.9.2-Fenrir"
 
 ##
 # Update Menu script 
